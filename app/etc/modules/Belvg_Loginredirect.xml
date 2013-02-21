@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Belvg_Loginredirect>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Belvg_Loginredirect>
+    </modules>
+</config>
